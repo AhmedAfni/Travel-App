@@ -130,17 +130,7 @@ const Login = ({ navigation }) => {
 
                     
                 />
-                 <Button
-                    title="Login"
-                    onPress={() => navigation.navigate("Home")}
-                    filled
-                    style={{
-                        marginTop: 18,
-                        marginBottom: 4,
-                    }}
-
-                    
-                />
+                 
             
 
                 <View style={{ flexDirection: 'row', alignItems: 'center', marginVertical: 20 }}>
